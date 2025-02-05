@@ -286,7 +286,7 @@ function App() {
                 <div>
                   <h3 className="text-xl font-bold">Udemy Instructor</h3>
                   <p className="text-gray-300">
-                    Teaching Spring Boot, Microservices, and React to thousands
+                    Teaching Spring Boot, Microservices, and React to hundreds
                     of students worldwide
                   </p>
                 </div>
