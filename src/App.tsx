@@ -88,7 +88,7 @@ function App() {
       image:
         'https://appinventiv.com/wp-content/uploads/2021/08/firebase-chat-app.png',
       githubContent:
-        'https://github.com/Poorna-chandra2000/Job-App-Microservces-project.git',
+        'https://github.com/Poorna-chandra2000/websockets-room-based-chat-app',
       tech: [
         'Spring Boot',
         'Websockets',
