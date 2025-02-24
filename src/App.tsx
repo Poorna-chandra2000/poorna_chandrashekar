@@ -81,6 +81,21 @@ function App() {
         'Postgres',
       ],
     },
+     {
+      title: 'Group chat application',
+      description:
+        'A complete backend built with Spring Boot Microservices inlcudes websockets for Realtime interactions,postgres',
+      image:
+        'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fchat-app&psig=AOvVaw1s5cfEw8y496VcJiggVc3f&ust=1740498908853000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjcu_XV3IsDFQAAAAAdAAAAABAE',
+      githubContent:
+        'https://github.com/Poorna-chandra2000/Job-App-Microservces-project.git',
+      tech: [
+        'Spring Boot',
+        'Websockets',
+        'Postgres',
+        'React',
+      ],
+    },
   ];
 
   return (
